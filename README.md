@@ -28,45 +28,12 @@ Complain Status and Duration Tracking
 Add multiple Admins to manage complains  ***still not implemented*****
 Audit Logs to track activities of Admins ***still not implemented*****
 Ability to Categorize Complains
-Email and SMS Notification
+Email and SMS Notification  ***still not implemented*****
 Forgot Password
 Account Management
 CSRF Protection
 
-Easily Generate Report on Complains (Coming Soon)
-A Knowledge base for already resolved issues to prevent same issue from been reported multiple times
 
-Complain Desk Development Contribution
-Thank you for considering contribute. You may propose new features or improvements of existing ones by submiting Pull Requests or sending an email to baffouraduboampong@gmail.com. Issues can also be submitted to as via our platform => https://complaindesk.herokuapp.com
-
-Pull Requests
-PSR-2 Coding Standard - The easiest way to apply the conventions is to install PHP Code Sniffer.
-
-Add tests! - Your patch won't be accepted if it doesn't have tests.
-
-Document any change in behaviour - Make sure the README.md and any other relevant documentation are kept up-to-date.
-
-Create feature branches - Don't ask us to pull from your master branch.
-
-One pull request per feature - If you want to do more than one thing, send multiple pull requests.
-
-Send coherent history - Make sure each individual commit in your pull request is meaningful. If you had to make multiple intermediate commits while developing, please squash them before submitting.
-
-Tests
-Please type the following command to run the test.
-
-phpunit
-
-or
-
-vendor/bin/phpunit
-
-or
-
-vendor\bin\phpunit
-
-Security Vulnerabilities
-If you discover a security vulnerability, please send an email to Baffour Adu Boampong at baffouraduboampong@gmail.com. All security vulnerabilities will be promptly addressed.
 
 Requirements, Recommended Environment
 Codeignater
